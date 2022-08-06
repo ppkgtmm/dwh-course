@@ -1,6 +1,6 @@
 -- Setting up sales fact table for staging
 
-CREATE TABLE "Staging".sales
+CREATE TABLE staging.sales
 (
     transaction_id integer,
 	transactional_date timestamp,

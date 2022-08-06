@@ -1,5 +1,5 @@
 -- Looking at the problem
-SELECT * FROM "Staging".dim_product;
+SELECT * FROM staging.dim_product;
 
 -- Setting up schema & table structure
 CREATE SCHEMA core;
